@@ -3,6 +3,7 @@
 Nos enfocamos en la descripción analítica en las propiedades físicas del suelo, incluyendo la conductividad hidráulica y la curva de retención de humedad.
 We focus on the analytical description of soil physical properties, including hydraulic conductivity and soil-water retention curve.
 
+![image](https://static.wixstatic.com/media/a71414_d6276880e35540b89868f27c3a0b93b4~mv2.png/v1/fill/w_574,h_553,fp_0.50_0.50,lg_1,q_85,enc_auto/a71414_d6276880e35540b89868f27c3a0b93b4~mv2.png)
 
 ## Redes sociales / Social media
 
