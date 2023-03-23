@@ -4,25 +4,9 @@ Nos enfocamos en la descripción analítica en las propiedades físicas del suel
 We focus on the analytical description of soil physical properties, including hydraulic conductivity and soil-water retention curve.
 
 
-## Redes sociales
+## Redes sociales / Social media
 
-## Social media
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soilbiophysicslab/)
 
--   Website
-    [<img align="left" alt="saryace" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://biofisica.ing.puc.cl)
-    
--   Twitter
-    [<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/soilbiophysics1)
-    
--   Instagram
-    [<img align="left" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/soilbiophysicslab)
 
-------------------------------------------------------------------------
-
-## 📺 Tutoriales y SOPs en el canal de youtube
-## 📺 Tutorials and SOPs in the YT channel
-
--   [Laboratorio de Biofísica de Suelos
-    (ES)](https://www.youtube.com/channel/UCtpWXCy2NDEWpdeGLoyHmBg)
-    
 
